@@ -1,0 +1,19 @@
+{
+	"ImportPath": "godeptest",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v75",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/graphics-go/graphics",
+			"Rev": "e7d8393167455ec3efa0ee33dddd608af0a82997"
+		},
+		{
+			"ImportPath": "code.google.com/p/graphics-go/graphics/convolve",
+			"Rev": "e7d8393167455ec3efa0ee33dddd608af0a82997"
+		},
+		{
+			"ImportPath": "code.google.com/p/graphics-go/graphics/interp",
+			"Rev": "e7d8393167455ec3efa0ee33dddd608af0a82997"
+		}
+	]
+}
